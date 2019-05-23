@@ -1,6 +1,4 @@
-# AnnikaLam.github.io
-
-Things I like:
+# Things I like
 
   * Minecraft
   * Unicorns
